@@ -202,6 +202,8 @@ a:hover {
   display: flex;
 
   padding-top: clamp(100px, 150px, 200px);
+  justify-content: center;
+
 
 }
 
